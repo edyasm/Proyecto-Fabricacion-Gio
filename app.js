@@ -3,10 +3,10 @@ function main (){
     let lamparas =[];
     lamparas.push({nombre:'2890-1-BL',stock:0})
     lamparas.push({nombre:'2890-1-NE',stock:0})
-    // lamparas.push({nombre:'2890-2-BL',stock:0})
-    // lamparas.push({nombre:'2890-2-NE',stock:0})
-    // lamparas.push({nombre:'2890-3-BL',stock:0})
-    // lamparas.push({nombre:'2890-3-NE',stock:0})
+    lamparas.push({nombre:'2890-2-BL',stock:0})
+    lamparas.push({nombre:'2890-2-NE',stock:0})
+    lamparas.push({nombre:'2890-3-BL',stock:0})
+    lamparas.push({nombre:'2890-3-NE',stock:0})
     alert('Bienvenido al control de inventario de lamparas');
     let opcion = 0;
     do{
